@@ -1,0 +1,55 @@
+Country,State,City,TotalOrders,ReturnRate_Percent
+China,Guangdong,Shenzhen,26,26.923076923076923
+Spain,Andalusia,Malaga,36,25.0
+China,Shandong,Qingdao,43,23.25581395348837
+Italy,Lombardy,Milan,31,22.58064516129032
+India,Uttar Pradesh,Kanpur,41,21.951219512195124
+China,Guangdong,Dongguan,33,21.21212121212121
+Canada,Quebec,Quebec City,29,20.689655172413794
+Italy,Lazio,Latina,30,20.0
+UK,England,Birmingham,40,20.0
+China,Guangdong,Guangzhou,41,19.51219512195122
+UK,Scotland,Aberdeen,21,19.047619047619047
+China,Shandong,Yantai,27,18.51851851851852
+Italy,Lazio,Frosinone,33,18.181818181818183
+Australia,New South Wales,Wollongong,39,17.94871794871795
+China,Shandong,Jinan,28,17.857142857142858
+USA,California,San Diego,34,17.647058823529413
+UK,England,London,35,17.142857142857142
+Japan,Kanagawa,Yokohama,30,16.666666666666664
+USA,California,San Jose,37,16.216216216216218
+Spain,Catalonia,Barcelona,38,15.789473684210526
+UK,England,Manchester,20,15.0
+Japan,Tokyo,Yokohama,27,14.814814814814813
+Spain,Andalusia,Seville,28,14.285714285714285
+USA,California,Los Angeles,23,13.043478260869565
+USA,Texas,San Antonio,31,12.903225806451612
+UK,Scotland,Edinburgh,32,12.5
+Japan,Kanagawa,Kawasaki,32,12.5
+Australia,New South Wales,Sydney,40,12.5
+Australia,New South Wales,Newcastle,41,12.195121951219512
+Spain,Catalonia,Girona,33,12.121212121212121
+Italy,Lombardy,Bergamo,34,11.76470588235294
+Canada,Quebec,Laval,34,11.76470588235294
+India,Maharashtra,Pune,34,11.76470588235294
+India,Uttar Pradesh,Ghaziabad,18,11.11111111111111
+Italy,Lombardy,Brescia,45,11.11111111111111
+Spain,Catalonia,Tarragona,28,10.714285714285714
+UK,Scotland,Glasgow,19,10.526315789473683
+Australia,Victoria,Ballarat,19,10.526315789473683
+Australia,Victoria,Melbourne,29,10.344827586206897
+Japan,Tokyo,Tokyo,30,10.0
+Canada,Ontario,Ottawa,41,9.75609756097561
+Canada,Ontario,Toronto,31,9.67741935483871
+Japan,Tokyo,Kawasaki,21,9.523809523809524
+Canada,Quebec,Montreal,45,8.88888888888889
+USA,Texas,Dallas,23,8.695652173913043
+India,Uttar Pradesh,Lucknow,25,8.0
+Japan,Kanagawa,Sagamihara,25,8.0
+India,Maharashtra,Mumbai,40,7.5
+Canada,Ontario,Mississauga,42,7.142857142857142
+Australia,Victoria,Geelong,31,6.451612903225806
+India,Maharashtra,Nagpur,49,6.122448979591836
+USA,Texas,Houston,21,4.761904761904762
+Italy,Lazio,Rome,17,0.0
+Spain,Andalusia,Granada,20,0.0
